@@ -1,0 +1,22 @@
+{
+  "name": "sixyearsinfebruary",
+  "version": "1.0.0",
+  "description": "Personal Blog on Github Pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SixYearsInFebruary/SixYearsInFebruary.github.io.git"
+  },
+  "author": "Dang Tianli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SixYearsInFebruary/SixYearsInFebruary.github.io/issues"
+  },
+  "homepage": "https://github.com/SixYearsInFebruary/SixYearsInFebruary.github.io#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
